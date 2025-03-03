@@ -1,1 +1,1 @@
-__version__ = '0.7.0rc2-meanpug'
+__version__ = '0.7.0rc2.dev1'
